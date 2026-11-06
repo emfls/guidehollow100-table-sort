@@ -1,0 +1,14 @@
+{
+  "title": "GuideHollow",
+  "slug": "table-sort",
+  "section": "여러 기준으로 표 정렬",
+  "hero": "여러 기준으로 표 정렬",
+  "description": "기준 CSV의 column,type,direction 열에 열 이름,text 또는 number,asc 또는 desc를 입력하세요. 동률은 원래 행 순서를 보존합니다. 문자는 유니코드 순서입니다.",
+  "pageTitle": "여러 기준으로 표 정렬 | GuideHollow",
+  "url": "https://table-sort.guidehollow.com/",
+  "accent": "#17684f",
+  "launchReady": true,
+  "adsReady": false,
+  "coupangEnabled": true,
+  "utilityEnabled": true
+}
